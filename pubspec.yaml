@@ -40,7 +40,7 @@ dependencies:
   shared_preferences: ^2.0.0
   carousel_slider: ^4.1.1
   intl: ^0.17.0
-  websocket_manager: ^0.2.2
+#  websocket_manager: ^0.2.2
   socket_io_client: ^1.0.2
   socket_io_common: ^1.0.0
   jwt_decode: ^0.3.1
