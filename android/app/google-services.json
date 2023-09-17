@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1011350367699",
+    "project_id": "teamcdc-eaf9a",
+    "storage_bucket": "teamcdc-eaf9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011350367699:android:a769023cc20ea94a741326",
+        "android_client_info": {
+          "package_name": "com.example.teamcdcapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011350367699-1qd5h86vvj67v7ni6nv0qq21toogfks1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA70I8sXQk56CZ2EsnCtRf2TCUQHVXxF4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011350367699-1qd5h86vvj67v7ni6nv0qq21toogfks1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
